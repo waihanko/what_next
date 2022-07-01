@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188339775343",
+    "project_id": "what-next-222ea",
+    "storage_bucket": "what-next-222ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188339775343:android:f4cb3b554151d041fd2a9a",
+        "android_client_info": {
+          "package_name": "com.humanfromkepler.higherlower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188339775343-mihm88812jf1hs4hk6d1n6aiqp1nb2us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd3HcQjqcJgK2X2nt1SPgczL1nkFq8S0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188339775343-mihm88812jf1hs4hk6d1n6aiqp1nb2us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
